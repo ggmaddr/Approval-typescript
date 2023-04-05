@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Approval-typescript/static/css/main.328c0000.css",
+    "main.js": "/Approval-typescript/static/js/main.4b69d8c1.js",
+    "index.html": "/Approval-typescript/index.html",
+    "main.328c0000.css.map": "/Approval-typescript/static/css/main.328c0000.css.map",
+    "main.4b69d8c1.js.map": "/Approval-typescript/static/js/main.4b69d8c1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.328c0000.css",
+    "static/js/main.4b69d8c1.js"
+  ]
+}
